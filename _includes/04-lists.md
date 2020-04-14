@@ -1,2 +1,2 @@
-:heart: movies
-:heart:shopping
+1. movies
+2. shopping
